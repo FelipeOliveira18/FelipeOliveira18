@@ -9,6 +9,12 @@ Desenvolvendo projetos, aprendendo novas tecnologias e evoluindo<br>
 continuamente na área de desenvolvimento de software.
 </p>
 
+<table>
+<tr>
+<td width="100%" bgcolor="#0B2A4A">&nbsp;</td>
+</tr>
+</table>
+
 <br>
 
 <a href="https://github.com/FelipeOliveira18">
