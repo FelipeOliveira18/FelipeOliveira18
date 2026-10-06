@@ -112,6 +112,14 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 
 </div>
 
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/FelipeOliveira18/FelipeOliveira18/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
 ---
 
 ## GitHub Trophies
