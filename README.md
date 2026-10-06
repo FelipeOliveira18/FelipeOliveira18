@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Java+%7C+Spring+Boot+%7C+REST+API;MySQL+%7C+SQL+%7C+Python;Aprendendo%2C+construindo+e+evoluindo" />
+<h3>Estudante de Ciência da Computação • Java • Backend</h3>
 
 <br><br>
 
