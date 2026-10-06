@@ -160,6 +160,17 @@ Estudar → Construir → Aprender → Evoluir
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B2A4A,50:071A2F,100:050505&section=footer"/>
+<div align="center">
+
+<h1>Felipe Oliveira</h1>
+
+<h3>Estudante de Ciência da Computação • Java • Backend</h3>
+
+<p>
+Desenvolvendo projetos, aprendendo novas tecnologias e evoluindo<br>
+continuamente na área de desenvolvimento de software.
+</p>
+
+</div>
 
 </div>
