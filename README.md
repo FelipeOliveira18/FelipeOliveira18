@@ -124,12 +124,13 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 
 ## GitHub Trophies
 
+
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=FelipeOliveira18&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="./.github/assets/trophy.svg" alt="GitHub Trophies" width="90%" />
 
 </div>
-
 ---
 
 ## Contato
