@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,55:071A2F,100:0B2A4A&section=header&text=Felipe%20Oliveira&fontSize=46&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"/>
+<h1>Felipe Oliveira</h1>
 
 <h3>Estudante de Ciência da Computação • Java • Backend</h3>
 
@@ -8,6 +8,8 @@
 Desenvolvendo projetos, aprendendo novas tecnologias e evoluindo<br>
 continuamente na área de desenvolvimento de software.
 </p>
+
+</div>
 
 <table>
 <tr>
@@ -17,12 +19,16 @@ continuamente na área de desenvolvimento de software.
 
 <br>
 
+<div align="center">
+
 <a href="https://github.com/FelipeOliveira18">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="https://www.linkedin.com/in/felipe-oliveira-a4a83b3b9">
 <img src="https://img.shields.io/badge/LinkedIn-071A2F?style=for-the-badge&logo=linkedin&logoColor=4DA3FF"/>
 </a>
+
 <a href="https://www.instagram.com/felipe_0liveira18">
 <img src="https://img.shields.io/badge/Instagram-071A2F?style=for-the-badge&logo=instagram&logoColor=4DA3FF"/>
 </a>
@@ -62,11 +68,11 @@ Meu objetivo é continuar evoluindo tecnicamente, construir projetos cada vez ma
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,mysql&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
 
 </div>
 
@@ -130,9 +136,9 @@ Projeto acadêmico desenvolvido durante a graduação, colocando em prática con
 
 <div align="center">
 
-**Transformar conhecimento em projetos.**
+<strong>Transformar conhecimento em projetos.</strong>
 
-<br>
+<br><br>
 
 Estudar → Construir → Aprender → Evoluir
 
@@ -166,17 +172,6 @@ Estudar → Construir → Aprender → Evoluir
 
 <div align="center">
 
-<div align="center">
-
-<h1>Felipe Oliveira</h1>
-
-<h3>Estudante de Ciência da Computação • Java • Backend</h3>
-
-<p>
-Desenvolvendo projetos, aprendendo novas tecnologias e evoluindo<br>
-continuamente na área de desenvolvimento de software.
-</p>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0B2A4A,50:071A2F,100:050505&section=footer"/>
 
 </div>
