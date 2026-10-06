@@ -104,13 +104,7 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 
 ---
 
-## Atividade
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeOliveira18&bg_color=050505&color=FFFFFF&line=4DA3FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribuições%20no%20GitHub" width="95%" />
-
-</div>
 
 ## Contribution Snake
 
