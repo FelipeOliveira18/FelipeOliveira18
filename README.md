@@ -68,6 +68,14 @@ Meu objetivo é continuar evoluindo tecnicamente, construir projetos cada vez ma
 
 ## 🚀 Projetos
 
+### 🔹 Interface Java
+
+Projeto desenvolvido utilizando **Java e Swing UI**, explorando a criação de Interfaces.
+
+<a href="https://github.com/FelipeOliveira18/interfaceJava">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0B2A4A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
 ### 🔹 Swagger API
 
 Projeto desenvolvido utilizando **Java e Spring Boot**, explorando a criação e documentação de uma API.
