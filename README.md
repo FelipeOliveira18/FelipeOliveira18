@@ -86,11 +86,11 @@ Projeto desenvolvido utilizando **Java e Spring Boot**, explorando a criação e
 
 <br><br>
 
-### 🔹 TSemestral UNIP
+### 🔹 Estação Meteorológica com MicroPython
 
-Projeto acadêmico desenvolvido durante a graduação, colocando em prática conhecimentos de desenvolvimento e construção de uma aplicação.
+Estação Meteorológica Inteligente desenvolvida com ESP32 e MicroPython, capaz de coletar e monitorar dados ambientais em tempo real.
 
-<a href="https://github.com/FelipeOliveira18/TSemestral_UNIP">
+<a href="https://github.com/FelipeOliveira18/EstecaoMeteorologica">
 <img src="https://img.shields.io/badge/VER%20PROJETO-0B2A4A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
